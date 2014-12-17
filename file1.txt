@@ -1,4 +1,4 @@
 first file with first line
 add second line
-add thrid line from mac
+add third line from linux and mac
 add fourth line from max

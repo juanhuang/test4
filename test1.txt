@@ -1,1 +1,2 @@
 a new file for test thursday
+add line in branch hotfix2

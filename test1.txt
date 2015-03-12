@@ -1,4 +1,5 @@
-
 a new change
 a new file for test thursday
-change in main branch
+second change from branch hotfix2
+a new file for test thursday
+add line in branch hotfix2
